@@ -1,0 +1,12 @@
+export { default as HTML5 } from './html5.png';
+export { default as CSS3 } from './css3.png';
+export { default as JavaScript } from './javascript.png';
+export { default as NodeJS } from './nodejs.png';
+export { default as React } from './react.png';
+export { default as Python } from './python.png';
+export { default as Git } from './git.png';
+export { default as Java } from './java.jpg';
+export { default as Mongo } from './mongo.png';
+export { default as Angular } from './angularjs.png';
+export { default as Linux } from './linux.png';
+export { default as Spring } from './spring.png';
