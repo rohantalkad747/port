@@ -19,6 +19,21 @@ export default [
     description: 'An E-Commerce web store that is dedicated towards the sale of flint knapping products. This project utilizes MongoDB and NodeJS for database storage (for user storage and order routing), NodeMailer for sending e-mails, and Stripe for its checkouts. I used the Angular 6 framework for the Client side.',
   },
   {
+    name: 'Lassonde Bootcamp Activity Website',
+    org: 'Lassonde School of Engineering',
+    orgLink: 'https://lassonde.yorku.ca/',
+    orgImage: images.lass,
+    date: new Date(2019, 5, 9),
+    type: CAREER,
+    url: 'https://lassondebootcamp.netlify.com/',
+    repoUrl: 'https://github.com/rohantalkad747/lassonde_rovers',
+    projectImage: imagesTwo.rt,
+    tags: ['nodejs', 'express', 'typescript', 'angular 6', 'bootstrap', 'html', 'css'],
+    description: `
+      Bootcamp activity website for incoming first-year students at Lassonde School of Engineering. This site contains slides, Arduino references, and instructions on completing the Arduino robot activity. It also features a feedback system which is implemented with Nodemailer and Express.
+    `,
+  },
+  {
     name: 'Talkbox',
     org: 'Malek, Mastrofrancesco, and Talkad',
     orgLink: 'https://piet.apps01.yorku.ca/',
