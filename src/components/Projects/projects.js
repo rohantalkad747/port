@@ -15,7 +15,7 @@ export default [
     url: 'https://github.com/rohantalkad747/knap-site',
     repoUrl: 'https://github.com/rohantalkad747/knap-site',
     projectImage: imagesTwo.gk,
-    tags: ['angular', 'nodejs', 'stripe', 'express', 'mongodb', 'jquery'],
+    tags: ['angular', 'nodejs', 'stripe', 'express', 'mongodb', 'typescript'],
     description: 'An E-Commerce web store that is dedicated towards the sale of flint knapping products. This project utilizes MongoDB and NodeJS for database storage (for user storage and order routing), NodeMailer for sending e-mails, and Stripe for its checkouts. I used the Angular 6 framework for the Client side.',
   },
   {
