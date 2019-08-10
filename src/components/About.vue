@@ -14,7 +14,7 @@
       </div>
       <div class="block">
         <a class="button is-dark"
-          href="https://github.com/rohantalkad747"
+          href="https://docdro.id/KOmFPO0"
           target="_blank"
           rel="noopener">
           <span>Resume</span>
