@@ -7,7 +7,7 @@
       <h2 class="title is-2">About</h2>
       <separator></separator>
       <div class="about-text block">
-        <p>I'm currently a second-year student at York University majoring in Computer Science.</p>
+        <p>I'm currently a third-year student at York University majoring in Computer Science.</p>
         <p> I'm particularly fond of developing web applications and love learning about new frameworks and libraries. </p>
         <p>I have a strong foundation in computer science and am highly interested in data structures and algorithms.</p>
         <p>I have also participated in many social initiatives such as volunteerism which have grown my communication, leadership, and collaboration skills with others. </p>
