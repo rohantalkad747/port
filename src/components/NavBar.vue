@@ -41,7 +41,7 @@ export default {
           el: '#about',
         }, {
           title: 'Resume',
-          url: 'https://docdro.id/NR7KWy3',
+          url: 'https://docdro.id/KOmFPO0',
         }, {
           title: 'Projects',
           el: '#projects',
