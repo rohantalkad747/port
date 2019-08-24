@@ -13,7 +13,7 @@
       </div>
       <div class="block">
         <a class="button is-dark"
-          href="https://docdro.id/KOmFPO0"
+          href="https://docdro.id/Zys2GLE"
           target="_blank"
           rel="noopener">
           <span>Resume</span>
