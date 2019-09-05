@@ -28,7 +28,7 @@ export default [
     url: 'https://royaltymine.com/',
     tags: ['nodejs', 'express', 'react', 'redis', 'mongodb'],
     description: `
-      Royaltymine is the platform that connects artists, their fans, and professional investors. Artists can raise funds by directly have their supporters invest in their tracks. Fans can become much more involved in an artist's career and investors can easily obtain exposure to music royalties. 
+      Royaltymine is an innovative earnings distribution platform. Fans and investors can place capital in the hands of artists, allowing them to pay for distribution and production expenses. In turn, they reap the benefits of being entitled to a certain percentage of the earnings.
     `,
   },
   {
