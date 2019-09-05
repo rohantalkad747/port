@@ -19,6 +19,19 @@ export default [
     description: 'An E-Commerce web store that is dedicated towards the sale of flint knapping products. This project utilizes MongoDB and NodeJS for database storage (for user storage and order routing), NodeMailer for sending e-mails, and Stripe for its checkouts. I used the Angular 6 framework for the Client side.',
   },
   {
+    name: 'Royaltymine',
+    org: 'ZHY Interactive',
+    orgLink: 'http://zhyinteractive.com',
+    orgImage: images.zhy,
+    date: new Date(2019, 9, 4),
+    type: CAREER,
+    url: 'https://royaltymine.com/',
+    tags: ['nodejs', 'express', 'react', 'redis', 'mongodb'],
+    description: `
+      Royaltymine is the platform that connects artists, their fans, and professional investors. Artists can raise funds by directly have their supporters invest in their tracks. Fans can become much more involved in an artist's career and investors can easily obtain exposure to music royalties. 
+    `,
+  },
+  {
     name: 'Bootcamp Activity Website',
     org: 'Lassonde School of Engineering',
     orgLink: 'https://lassonde.yorku.ca/',
