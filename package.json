@@ -40,7 +40,7 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-vue": "^1.0.0",
     "eventsource-polyfill": "^0.9.6",
-    "express": "^4.14.1",
+    "express": "^4.17.3",
     "extract-text-webpack-plugin": "^2.0.0",
     "favicons-webpack-plugin": "0.0.9",
     "file-loader": "^0.10.0",
